@@ -24,8 +24,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'darmapryanda1@gmail.com', true],
-         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'darmapryanda1@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'awokawokaowk69@gmail.com', true],
+         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'awoakwokaowk69@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -39,25 +39,25 @@ handler.all = async function (m) {
 		global.adReply = {
 			contextInfo: {
 				forwardingScore: 9999,
-				//isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
+				//isForwarded: false, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
 				externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
                     showAdAttribution: true,
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'Private Bot by Fangz',
+					description: 'Private Bot by Vinz',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/Fangzbotz2007",					
+					sourceUrl: "https://github.com/KaiZax",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://github.com/Fangzbotz2007",
+            mediaUrl: "https://github.com/KaiZax",
             mediaType: "VIDEO",
-            description: "https://github.com/Fangzbotz2007", 
-            title: 'Private Bot by Fangz',
+            description: "https://github.com/KaiZax", 
+            title: 'Private Bot by Vinz',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -65,10 +65,10 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://github.com/Fangzbotz2007",
+            mediaUrl: "https://github.com/KaiZax",
             mediaType: "VIDEO",
-            description: "https://github.com/Fangzbotz2007", 
-            title: 'Private Bot by Fangz',
+            description: "https://github.com/KaiZax", 
+            title: 'Private Bot by Vinz',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -169,7 +169,7 @@ global.fakefb = {
                "groupInviteMessage": {
                    "groupJid": "17608914335-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Friends FANGZ BOT", 
+                   "groupName": "Pamely Old", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
