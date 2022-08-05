@@ -19,8 +19,8 @@ let tag = `@${m.sender.split('@')[0]}`
     if (m.isGroup) return
     if (db.data.settings.groupOnly) return
     let user = global.db.data.users[m.sender]
-    let tks = `Saya adalah Fangz BOT salah satu Bot Whatsapp yang diciptakan oleh : ${ow}
-Silahkan tekan Tombol ${user.registered ? '"Menu"' : '"Verify"'} untuk ${user.registered ? 'melihat list command dari' : 'mendaftar sebelum menggunakan'} Fangz BOT.
+    let tks = `Saya adalah xʜɪᴍᴍᴇʀ ʙᴏᴛ, salah satu Bot Whatsapp yang diciptakan oleh : ${ow} saya bukan bot virtex!
+Silahkan tekan Tombol ${user.registered ? '"Menu"' : '"Verify"'} untuk ${user.registered ? 'melihat list command dari' : 'mendaftar sebelum menggunakan'} xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐.
 
 *Official Bot By Whatsapp 
 *Powered By ${ow}*`
