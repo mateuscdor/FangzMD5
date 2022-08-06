@@ -5,12 +5,12 @@ HayðŸ‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Dana
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 087734910547
+👤 A/n: Vinz
+📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
 💰 Metode pembayaran: Online ( ~Cod~ )
 
-📣 *Beli*
+📣 *Beli Bot*
 
 Apk TokoBot: https://app.bukaolshop.com/toko/tokobot
 
