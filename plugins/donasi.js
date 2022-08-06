@@ -12,8 +12,8 @@ const sections = [
 	    {title: "?Gopay", rowId: '.donasigopay', description: 'Bayar melalui Gopay' },
 	{title: "?Ovo", rowId: '.donasiovo', description: 'Bayar melalui Ovo' },
 	{title: "?Motion Pay", rowId: '.donasimotionpay', description: 'Bayar melalui Motion Pay' },
-	{title: "?Pulsa Smartfren", rowId: '.donasismartfren', description: 'Bayar melalui pulsa' },
-	{title: "?Pulsa Tri3", rowId: '.donasiastri', description: 'Bayar melalui pulsa' },
+	{title: "?Pulsa XL", rowId: '.donasismartfren', description: 'Bayar melalui pulsa' },
+	{title: "?Pulsa Indosat", rowId: '.donasiastri', description: 'Bayar melalui pulsa' },
 	]
     }, 
 
