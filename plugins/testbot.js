@@ -1,7 +1,7 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `${htki} *ONLINE* ${htka}`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: '🪀 Website', url: 'https://fangzbot.websites.co.in/'}},
+    {index: 1, urlButton: {displayText: '🪀 Website', url: 'https://github.com/KaiZax'}},
     {index: 3, urlButton: {displayText: '💌 Official Group', url: sgc}},
     {index: 4, quickReplyButton: {displayText: 'Siap', id: 'Ok'}},
 ]
