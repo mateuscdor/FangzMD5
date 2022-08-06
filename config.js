@@ -124,7 +124,7 @@ global.author = '                xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐' //Wm author
 // INI JUGA GANTI SETERAH MU
 global.thumb = 'https://telegra.ph/file/513ea6887398d5a33835c.jpg' //Thumbnail nya
 global.thumb2 = 'https://telegra.ph/file/35664e671f097056e7a0e.jpg'
-global.thumbbc = 'https://telegra.ph/file/4a64ac73947b559f26cae.jpg' //Image Bcgcb
+global.thumbbc = 'https://telegra.ph/file/b784c679ee6610da8d552.jpg' //Image Bcgcb
 global.giflogo = 'https://telegra.ph/file/f6f3654288044fce5c53e.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
