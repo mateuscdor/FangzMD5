@@ -283,10 +283,10 @@ let tek = `*✧${ucapan()} ${conn.getName(m.sender)}*
 ╰═┅═━–––๑
 
 ╭━━━━「 *Ʋser Ɩnfσrmαtισn* 」
-┝🌸• *ɴᴀᴍᴇ:* ${usrs.registered ? usrs.name : conn.getName(m.sender)}
-┝🌸• *ᴛᴀɢs:* @${m.sender.split`@`[0]}
-┝🌸• *sᴛᴀᴛᴜs:* ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
-┝🌸• *ᴘʀᴇᴍɪᴜᴍ:* ${usrs.premiumTime > 1 ? 'Yes': 'No'}
+┝赤• *ɴᴀᴍᴇ:* ${usrs.registered ? usrs.name : conn.getName(m.sender)}
+┝赤• *ᴛᴀɢs:* @${m.sender.split`@`[0]}
+┝赤• *sᴛᴀᴛᴜs:* ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
+┝赤• *ᴘʀᴇᴍɪᴜᴍ:* ${usrs.premiumTime > 1 ? 'Yes': 'No'}
 ╰═┅═━═┅═━═┅═━––––––๑
 
 
