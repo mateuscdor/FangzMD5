@@ -23,51 +23,51 @@
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6288215689772">
+  <a href="https://wa.me/6287734910547">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://tiktok.com/@fangzjb">
+  <a href="https://tiktok.com/@wvinz">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=">
+  <a href="https://instagram.com/_alv.stn?igshid=YmMyMTA2M2Y=">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:darmapryanda1@gmail.com">
+  <a href="mailto:alvinrinegar@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6288215689772"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895394988123) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772) 
+## ```Whatsapp``` <a href="https://wa.me/6287734910547"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281774916559) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Fangzbotz2007) |
-| **No Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Simple** |[✔️](https://github.com/Fangzbotz2007) |
-| **Button template** |[✔️](https://github.com/Fangzbotz2007) |
-| **Multi Device** |[✔️](https://github.com/Fangzbotz2007) |
+| **Fast Respon** |[✔️](https://github.com/ShionMDv) |
+| **No Internet** |[✔️](https://github.com/ShionMDv) |
+| **Simple** |[✔️](https://github.com/ShionMDv) |
+| **Button template** |[✔️](https://github.com/ShionMDv) |
+| **Multi Device** |[✔️](https://github.com/ShionMDv) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Fangzbotz2007) |
-| **Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game Rpg** |[✔️](https://github.com/Fangzbotz2007) |
-| **Nsfw** |[✔️](https://github.com/Fangzbotz2007) |
-| **Sticker** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game** |[✔️](https://github.com/Fangzbotz2007) |
-| **Kerang Ajaib** |[✔️](https://github.com/Fangzbotz2007) |
-| **Quotes** |[✔️](https://github.com/Fangzbotz2007) |
-| **Anime** |[✔️](https://github.com/Fangzbotz2007) |
-| **Premium** |[✔️](https://github.com/Fangzbotz2007) |
-| **Tools** |[✔️](https://github.com/Fangzbotz2007) |
-| **Exec** |[✔️](https://github.com/Fangzbotz2007) |
-| **React** |[✔️](https://github.com/Fangzbotz2007) |
+| **Downloader** |[✔️](https://github.com/ShionMDv) |
+| **Internet** |[✔️](https://github.com/ShionMDv) |
+| **Game Rpg** |[✔️](https://github.com/ShionMDv) |
+| **Nsfw** |[✔️](https://github.com/ShionMDv) |
+| **Sticker** |[✔️](https://github.com/ShionMDv) |
+| **Game** |[✔️](https://github.com/ShionMDv) |
+| **Kerang Ajaib** |[✔️](https://github.com/ShionMDv) |
+| **Quotes** |[✔️](https://github.com/ShionMDv) |
+| **Anime** |[✔️](https://github.com/ShionMDv) |
+| **Premium** |[✔️](https://github.com/ShionMDv) |
+| **Tools** |[✔️](https://github.com/ShionMDv) |
+| **Exec** |[✔️](https://github.com/ShionMDv) |
+| **React** |[✔️](https://github.com/ShionMDv) |
 ---------
 ![Zhirrr github stats](https://github-readme-stats.vercel.app/api?username=KiZakiXD&show_icons=true&theme=tokyonight)
 
