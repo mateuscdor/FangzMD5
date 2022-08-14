@@ -13,9 +13,9 @@
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/Fangzbotz2007/KaiZax-MDnetwork/members"><img title="Forks" src="https://img.shields.io/github/forks/Fangzbotz2007/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDlwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Fangzbotz2007/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDstargazers"><img title="Stars" src="https://img.shields.io/github/stars/Fangzbotz2007/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Fangzbotz2007/KaiZax
+<a href="https://github.com/Fangzbotz2007/Ayane45121
+<a href="https://github.com/Fangzbotz2007/FangzBOT
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
