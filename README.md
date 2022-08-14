@@ -49,7 +49,7 @@
 
 🆃🅰🅼🅿🅸🅻🅰🅽 🅼🅴🅽🆄🅽🆈🅰 🅱🅸 🅻🅸🅺🅴:
 <p align="center">
-    <img src="https://telegra.ph/file/583a971204b60df5b71a7.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/0337135e46602f299e2b1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 -----------
