@@ -5,17 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/ShionMDv"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Vinz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Vinz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
-</p>
 
 <p align="center">
  <a href="#"><img title="VinzBOT" src="https://img.shields.io/badge/VINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<a href="https://github.com/Fangzbotz2007/KaiZax
-<a href="https://github.com/Fangzbotz2007/Ayane45121
-<a href="https://github.com/Fangzbotz2007/FangzBOT
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
