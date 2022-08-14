@@ -44,14 +44,15 @@
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281774916559) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
+
 ---------
 
-Tampilan Menu Nya Bi Like:
+🆃🅰🅼🅿🅸🅻🅰🅽 🅼🅴🅽🆄🅽🆈🅰 🅱🅸 🅻🅸🅺🅴:
 <p align="center">
     <img src="https://telegra.ph/file/583a971204b60df5b71a7.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
------------
 
+-----------
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
