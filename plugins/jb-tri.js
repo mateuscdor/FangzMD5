@@ -4,10 +4,10 @@ let text = `${htki} PULSA ${htka}
 👋‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
-💳 Via: Pulsa Tri3
-📞 Nomor: 0895394988123
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+💳 Via: Pulsa Indosat
+📞 Nomor: 085848453523
+👤 A/n: Vinz
+📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
