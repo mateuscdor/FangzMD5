@@ -1,10 +1,10 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let text = `${htki} *ADA APA* ${htka}
+let text = `${htki} *Apa Su?* ${htka}
 
-        IG @_alv.stn
+        IG: https://instagram.com/_alv.stn
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Chat', url: 'https://wa.me/62877349105476'}},
+    {index: 1, urlButton: {displayText: 'Chat', url: 'https://wa.me/6287734910547'}},
 ]
 let tm = {
 text: text,
