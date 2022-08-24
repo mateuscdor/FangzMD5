@@ -138,10 +138,10 @@ bila sudah tidak ada harganya, berarti sudah tidak bisa dibeli / sudah level max
 ━━━━━━━━━━━━━━━━━
 *🦊 Pet.      | 💲 Harga Beli*
 ━━━━━━━━━━━━━━━━━
-*🐱 Kucing:* ${Bkucing} 🪙
-*🐶 Anjing:* ${Banjing} 🪙
+*🐱 Kucing:* ${Bcat} 🪙
+*🐶 Anjing:* ${Bdog} 🪙
 *🦊 Fox:* ${Bfox} 🪙 
-*🐴 Kuda:* ${Bkuda} 🪙 
+*🐴 Kuda:* ${Bhorse} 🪙 
 *🐺 Serigala:* ${Bserigala} 🪙
 *🦜 Phonix:* ${Bphonix} 🪙
 *🐎 Centaur:* ${Bcentaur} 🪙
