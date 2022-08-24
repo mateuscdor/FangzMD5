@@ -1,7 +1,6 @@
-let handler = m => m
-import fs from 'fs'
-let handler = async (m, { conn, args, command }) => {
-	let _muptime
+export default = {
+  async before(m) {
+
 if (new Date() * 1 - setting.status > 1000) {
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
@@ -9,10 +8,10 @@ if (new Date() * 1 - setting.status > 1000) {
         setting.status = new Date() * 1
     }
 
-}
+}}
 
 export default handler
-
+    
 function clockString(ms) {
     let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
     let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
