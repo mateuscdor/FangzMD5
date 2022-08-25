@@ -1,14 +1,17 @@
-export default = {
-  async before(m) {
+import fetch from 'node-fetch'
+    let handler = async 
 
-if (new Date() * 1 - setting.status > 1000) {
-        let _uptime = process.uptime() * 1000
-        let uptime = clockString(_uptime)
-        await this.setStatus(`Aktif selama ${uptime} | Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} | ${xʜɪᴍᴍᴇʀ} by ${VinzCyx}`).catch(_ => _)
-        setting.status = new Date() * 1
+// update status
+    if (set.autoupdatestatus) {
+        if (new Date() * 1 - set.status > 1000) {
+            let _uptime = process.uptime() * 1000
+            let uptime = conn.clockString(_uptime)
+            await this.setStatus(`Aktif selama ${uptime} | Mode: ${set.self ? 'Private' : set.group ? 'Hanya Grup' : 'Publik'} | stikerinbot oleh ariffb`).catch(_ => _)
+            set.status = new Date() * 1
+        }
     }
 
-}}
+}
 
 export default handler
     
